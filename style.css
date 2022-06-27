@@ -1,0 +1,127 @@
+*{
+    margin:0px;
+}
+body{
+    display: flex;
+    background-image: url("pat.jpg");
+    background-attachment: fixed;
+    background-size: cover;
+    flex-direction: column;
+    align-items: center;
+    height: 1500px;
+    
+}
+header{
+    background-color:rgb(144, 101, 144);
+    width:100%;
+    position:fixed;
+    display: flex;
+    align-items: center;
+}
+nav{
+    display: flex;
+    align-items: center;
+    width: 100%;
+    flex: 10;
+    color:black;
+}
+img{
+    width: 50px;
+    height: 50px;
+}
+
+#mmm{
+    flex:2;
+}
+a{
+    text-decoration:none;
+    color:rgba(243, 248, 8, 1);
+    text-align: center;
+    font-size:20px;
+    font-weight: 50;
+    flex:1;
+}
+
+
+
+
+article{
+    font-size: 32px;
+    background-color:rgba(63, 157, 63, 0.989);
+    margin: 10px 15%;
+    padding: 20px;
+    border-radius: 15px;
+
+}
+
+#ggg{
+background-color:rgba(63, 157, 63, 0.989);
+margin: 10px 10%;
+padding: 20px;
+margin-top:100px;
+}
+
+
+
+.ddd{
+    margin: 10px 40%;
+    padding: 5px;
+    background-color:white;
+    
+}
+
+.kkk{
+    background-image: url(st1.jpg);
+    width: 700px;
+    height: 350px;
+    background-size: cover; 
+}
+
+.rrr{
+   background-image: url(https://catherineasquithgallery.com/uploads/posts/2021-02/1612694306_38-p-zelenii-fon-standoff-2-56.jpg);
+    width: 700px;
+    height: 350px;
+    background-size: cover;
+    
+}
+
+.vvv{
+    margin: 10px 40%;
+    padding: 5px;
+}
+
+
+
+.ttt{
+    text-indent: 15px;
+}
+
+.yyy{
+    text-indent: 200px;
+}
+
+.lll{
+    display: flex;
+    justify-content: space-around;
+}
+
+.zzz{
+    margin: 15px;
+    font-size: 30px;
+    text-align: center;
+}
+
+footer{
+    width:100%;
+    
+}
+
+.kakashka{
+    font-size: 20px;
+
+}
+
+.xxx{
+    color: rgb(102, 61, 61);
+    font-size: 36px; 
+}
